@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": 1787174110.2082765,
+  "generated_at_utc": 1787174240.587887,
   "last_ingest_utc": 1787174109.8578925,
   "ingest_health_24h": {
     "ok": 70,
@@ -19,7 +19,10 @@
       "index_price": 69427.08869565,
       "basis_bps": -2.7407981267513204,
       "oi_contracts": 107639.412,
-      "oi_notional_usd": 7471606796.9796
+      "oi_notional_usd": 7471606796.9796,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 1.7022479729198738,
+      "funding_history_n": 90
     },
     {
       "id": 60,
@@ -34,7 +37,10 @@
       "index_price": 69443.51,
       "basis_bps": -2.8992257641369257,
       "oi_contracts": 57709.791,
-      "oi_notional_usd": 4005763554.85
+      "oi_notional_usd": 4005763554.85,
+      "funding_percentile_30d": 32.22222222222222,
+      "funding_zscore_30d": -0.451318728718451,
+      "funding_history_n": 90
     },
     {
       "id": 66,
@@ -49,7 +55,10 @@
       "index_price": 69411.63,
       "basis_bps": -1.7211002424943889,
       "oi_contracts": null,
-      "oi_notional_usd": 804561360.0
+      "oi_notional_usd": 804561360.0,
+      "funding_percentile_30d": 28.749999999999996,
+      "funding_zscore_30d": -0.7185376412024791,
+      "funding_history_n": 720
     },
     {
       "id": 68,
@@ -64,7 +73,10 @@
       "index_price": 69440.0,
       "basis_bps": -0.1915534161101018,
       "oi_contracts": 34849.42,
-      "oi_notional_usd": 2419630080.02
+      "oi_notional_usd": 2419630080.02,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 0.9231099124487501,
+      "funding_history_n": 500
     },
     {
       "id": 63,
@@ -79,7 +91,10 @@
       "index_price": 69452.5,
       "basis_bps": 0.3701445709780593,
       "oi_contracts": 30485.34980000012,
-      "oi_notional_usd": 2115485121.3463082
+      "oi_notional_usd": 2115485121.3463082,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 1.5751531438214088,
+      "funding_history_n": 90
     },
     {
       "id": 58,
@@ -94,7 +109,10 @@
       "index_price": 2259.92395349,
       "basis_bps": -0.3025451424087944,
       "oi_contracts": 2356186.246,
-      "oi_notional_usd": 5324984739.296297
+      "oi_notional_usd": 5324984739.296297,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 2.173459400753427,
+      "funding_history_n": 90
     },
     {
       "id": 61,
@@ -109,7 +127,10 @@
       "index_price": 2261.64,
       "basis_bps": 7.743123000614194,
       "oi_contracts": 756124.32,
-      "oi_notional_usd": 1710217109.46
+      "oi_notional_usd": 1710217109.46,
+      "funding_percentile_30d": 81.11111111111111,
+      "funding_zscore_30d": 0.9451986854744443,
+      "funding_history_n": 90
     },
     {
       "id": 67,
@@ -124,7 +145,10 @@
       "index_price": 2258.51,
       "basis_bps": -3.8051918745884983,
       "oi_contracts": null,
-      "oi_notional_usd": 283364540.0
+      "oi_notional_usd": 283364540.0,
+      "funding_percentile_30d": 58.333333333333336,
+      "funding_zscore_30d": -0.25397099706012427,
+      "funding_history_n": 720
     },
     {
       "id": 69,
@@ -139,7 +163,10 @@
       "index_price": 2260.5,
       "basis_bps": 9.42448685217645,
       "oi_contracts": 830996.4050000005,
-      "oi_notional_usd": 1879880067.391001
+      "oi_notional_usd": 1879880067.391001,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 3.5837460108996133,
+      "funding_history_n": 500
     },
     {
       "id": 64,
@@ -154,7 +181,10 @@
       "index_price": 2261.0,
       "basis_bps": 6.681208989101073,
       "oi_contracts": 582707.3610000011,
-      "oi_notional_usd": 1316837056.8294623
+      "oi_notional_usd": 1316837056.8294623,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 2.0674790138866603,
+      "funding_history_n": 90
     },
     {
       "id": 59,
@@ -169,7 +199,10 @@
       "index_price": 86.11538484,
       "basis_bps": 1.9263333333330301,
       "oi_contracts": 8684362.17,
-      "oi_notional_usd": 747867619.3231738
+      "oi_notional_usd": 747867619.3231738,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 1.1831763129615607,
+      "funding_history_n": 90
     },
     {
       "id": 62,
@@ -184,7 +217,10 @@
       "index_price": 86.147,
       "basis_bps": 1.7421602787459634,
       "oi_contracts": 5768909.9,
-      "oi_notional_usd": 496789676.04
+      "oi_notional_usd": 496789676.04,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 1.2717838381826532,
+      "funding_history_n": 90
     },
     {
       "id": 70,
@@ -199,7 +235,10 @@
       "index_price": 86.125,
       "basis_bps": 5.923344947735831,
       "oi_contracts": 4666604.439999999,
-      "oi_notional_usd": 402032639.11043984
+      "oi_notional_usd": 402032639.11043984,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 0.8637987640923435,
+      "funding_history_n": 500
     },
     {
       "id": 65,
@@ -214,7 +253,10 @@
       "index_price": 86.06,
       "basis_bps": -5.807200929152101,
       "oi_contracts": 2978464.630000001,
-      "oi_notional_usd": 256326666.05780005
+      "oi_notional_usd": 256326666.05780005,
+      "funding_percentile_30d": 100.0,
+      "funding_zscore_30d": 1.5517902954682532,
+      "funding_history_n": 90
     }
   ]
 }
