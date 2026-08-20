@@ -249,3 +249,6 @@ ingest complete: 12 ok, 2 failed
   FAILED: okx/BTC: <urlopen error [Errno 104] Connection reset by peer>
   FAILED: okx/SOL: <urlopen error [Errno 104] Connection reset by peer>
 exported 14 snapshots to /home/satyawansingh/amit-derivatives-monitor/data/latest_snapshot.json
+=== Thu Aug 20 05:30:01 PM UTC 2026 ===
+ingest complete: 14 ok, 0 failed
+exported 14 snapshots to /home/satyawansingh/amit-derivatives-monitor/data/latest_snapshot.json
